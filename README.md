@@ -20,7 +20,7 @@ root@933dfa3db228:~#
 ## Acknowledgements
 
 The riscv backend for OCaml is from the
-[riscv-ocaml](https://github.com/anmolsahoo25/riscv-tools-docker) project. The
+[riscv-ocaml](https://github.com/nojb/riscv-ocaml) project. The
 dockerfiles in this repo extend the dockerfile from
 [riscv-tools-docker](https://github.com/anmolsahoo25/riscv-tools-docker), which
 is a part of the [Shakti Processor Program](https://shakti.org.in/) at IIT
